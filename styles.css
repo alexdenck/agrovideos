@@ -2,8 +2,11 @@ body{
 color: white;
 background:brown ;
 }
-header{border-bottom:  solid 2px;
+  margin:8px;
 
+
+header{border-bottom:  solid 2px;
+margin: 20px;
 
 }
 
